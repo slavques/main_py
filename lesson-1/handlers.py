@@ -4,7 +4,7 @@ from config import admin_id
 
 
 async def send_to_admin(*args):
-    await bot.send_message(chat_id=admin_id, text="Бот запущен")
+    await bot.send_message(chat_id=admin_id, text="aasfdsdasdsad")
 
 
 @dp.message_handler()
